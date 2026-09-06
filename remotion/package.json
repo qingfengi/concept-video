@@ -1,0 +1,19 @@
+{
+  "name": "concept-anim",
+  "private": true,
+  "scripts": {
+    "render": "remotion render src/index.tsx"
+  },
+  "dependencies": {
+    "@remotion/cli": "^4.0.521",
+    "@remotion/renderer": "^4.0.521",
+    "react": "^19.2.8",
+    "react-dom": "^19.2.8",
+    "remotion": "^4.0.521"
+  },
+  "devDependencies": {
+    "@types/react": "^19.2.18",
+    "@types/react-dom": "^19.2.7",
+    "typescript": "^7.0.2"
+  }
+}

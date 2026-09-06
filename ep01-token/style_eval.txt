@@ -1,0 +1,26 @@
+
+===== style_keys_more3 =====
+n1_embroidery.png: 2;9 AI数据注入自然，环保科普神图  
+(The image perfectly visualizes AI injecting colorful data/pixels into nature, making it an ideal keyframe for popular
+n2_cyanotype.png: AI感：9 科普关键帧可用度：8  
+理由：极致AI风格，完美对称；主题适合科普AI/数据处理
+n3_claymation.png: AI感：8  
+科普关键帧可用度：9  
+理由：粘土模型细节精致，AI感8/10；教育玩具完美适合科普发明灵感主题。
+n4_etching.png: AI感：1 传统复古插画风格  
+科普关键帧可用度：9 信息流动与自然融合
+n5_felt.png: AI感：1；科普关键帧可用度：8；理由：手工felt拼贴，AI感极低；卡通机器人脑+地球，科普插图优秀。
+n6_hologram.png: AI感：8  
+科普关键帧可用度：7  
+理由：科幻投影地球图AI感强，适合科普科技演示。
+n7_lego.png: AI感: 1/10  
+科普关键帧可用度: 4/10  
+
+理由: 真实乐高场景,AI感低;适合科普工厂,但非科学帧。
+n8_paper_quilling.png: AI感: 8  
+科普关键帧可用度: 7  
+理由: 色彩对称精美AI感强, 主题隐喻数据→创意流动, 适合科普知识加工.
+
+===== style_keys_more2 =====
+m1_editorial.png: AI感 8; 科普关键帧可用度 8  
+机器人AI感强;流程图解AI生成适合科普
